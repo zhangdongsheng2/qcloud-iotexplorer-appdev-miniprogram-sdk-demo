@@ -14,4 +14,4 @@ npm i qcloud-iotexplorer-appdev-sdk
 
 ## DEMO使用方法
 
-详情见[DEMO说明](https://github.com/tencentyun/qcloud-iotexplorer-appdev-miniprogram-sdk-demo/tree/master/demo/miniprogram)
+详情见[DEMO说明](https://github.com/tencentyun/qcloud-iotexplorer-appdev-miniprogram-sdk-demo/tree/feature/v0.1/demo)
